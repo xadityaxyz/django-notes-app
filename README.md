@@ -1,5 +1,5 @@
 # Simple Notes App-1
-This is a simple notes app built with React and Django.
+This is a simple notTes app built with React and Django.
 
 ## Requirements
 1. Python 3.9
